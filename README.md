@@ -1,16 +1,12 @@
-# shopping_list
+# Palengke List App using Flutter, Dart & Firebase
 
-A new Flutter project.
+* Used Firebase & send HTTP requests to post data to a backend.
 
-## Getting Started
+## Screenshots
+  
+![q1](https://github.com/jirolds/palengke-list-app/assets/132939427/f9bcae66-bf47-4ba7-8441-69da7b4a1e02)
+![q2](https://github.com/jirolds/palengke-list-app/assets/132939427/7982f16f-a013-4abe-97f2-f4d04572ccb2)
+![q3](https://github.com/jirolds/palengke-list-app/assets/132939427/bfa45c33-b301-4486-b765-1f51169c576e)
+![q4](https://github.com/jirolds/palengke-list-app/assets/132939427/e05982a5-f42f-4845-a7cb-7e123a91d6ff)
+![q5](https://github.com/jirolds/palengke-list-app/assets/132939427/124a41fc-9e94-4ee2-a46b-e927f935377f)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
